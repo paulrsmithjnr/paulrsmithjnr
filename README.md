@@ -1,29 +1,11 @@
 <div align="center">
-  <div class="banner">
-    <span>Hi there, I'm Paul</span>
+  <div style="width: 100%; height: 100px; background: linear-gradient(135deg, #ff6e96, #3830c3); display: flex; justify-content: center; align-items: center; border-radius: 20px;">
+    <span style="color: white; font-size: 2.5rem; text-align: center; font-family: 'Red Hat Display', sans-serif; font-weight: 700;">Hi there, I'm Paul</span>
+  </div>
 </div>
 
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Red Hat+Display:wght@700&display=swap');
-.banner {
-    width: 100%;
-    height: 100px;
-    background: linear-gradient(135deg, #ff6e96, #3830c3); /* Banner gradient background */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 20px;
-}
-
-.banner span {
-    color: white;
-    font-size: 2.5rem;
-    text-align: center;
-    font-family: 'Red Hat Display', sans-serif;
-    font-weight: 700;
-}
-</style>
-</div>
+<!-- Add the font import at the top of your README -->
+<link href="https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@700&display=swap" rel="stylesheet">
 
 ###
 
