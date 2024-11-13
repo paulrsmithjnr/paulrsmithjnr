@@ -51,7 +51,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=paulrsmithjnr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://vast-lake-42371-92c48fc8b2f3.herokuapp.com?user=paulrsmithjnr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paulrsmithjnr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
