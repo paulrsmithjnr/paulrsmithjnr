@@ -50,19 +50,19 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com/?user=paulrsmithjnr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paulrsmithjnr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+</div> -->
 
 ###
 
-<br clear="both">
+<!-- <br clear="both"> -->
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulrsmithjnr/paulrsmithjnr/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulrsmithjnr/paulrsmithjnr/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/paulrsmithjnr/paulrsmithjnr/output/github-snake.svg" />
-</picture>
+</picture> -->
 
 ###
